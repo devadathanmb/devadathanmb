@@ -2,7 +2,7 @@
 <h3 align="center">Just another geek</h3>
 <br>
 
-<img align="right" style="border-radius:20px;margin-bottom:1rem;" alt="Coding" width="300" src="https://media.tenor.com/DOzCUnatStsAAAAC/working-morning-work.gif">
+<img align="right" style="border-radius:20px;margin-bottom:2em;" alt="Coding" width="300" src="https://media.tenor.com/DOzCUnatStsAAAAC/working-morning-work.gif">
 <br>
 <br>
 
