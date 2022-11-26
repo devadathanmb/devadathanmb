@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **a lot of things**
 
-- 💬 Ask me about **No questions please**
+- 💬 Ask me about **No questions please :D**
 
 - ⚡ Fun fact **I use Arch btw**
 <br>
