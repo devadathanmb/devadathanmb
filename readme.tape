@@ -51,35 +51,38 @@
 #   Hide                            Hide the subsequent commands from the output
 #   Show                            Show the subsequent commands in the output
 
-Output examples/demo.gif
+Output assets/readme.gif
 
 Require echo
 
 Set Shell "bash"
 Set FontFamily "JetBrainsMono Nerd Font"
-Set FontSize 32
+Set FontSize 40
 Set Margin 5
 Set MarginFill "#0A7ACA"
 Set BorderRadius 10
 Set Width 1500
-Set Height 350
+Set Height 600
 
 Hide
-Type "echo 'Hello World! I'm Devadathan M B'"
+Type "Hello World! I'm Devadathan M B"
 Enter
 Show
-Sleep 1000ms
+Sleep 2000ms
+Type "Let me talk about myself"
+Enter
+Sleep 2000ms
 Type "I'm really passionate about free and libre software" Sleep 1200ms
 Backspace 52
 Type "I'm more interested in backend, cloud, linux stuff" Sleep 1200ms
 Backspace 51
 Type "I'm currently persuing my B.Tech degree @ RIT Kottayam" Sleep 1200ms
 Backspace 55
-Type "I use       btw" Sleep 1200ms
+Type "I use       btw" Sleep 1500ms
 Backspace 25
 Type "You can connect me via  or 󰙯 or 󰇮 or 󰘨 in the links given below" Sleep 1200ms
 Backspace 76
 Type "This GIF readme was made using charmbracelet/vhs  " Sleep 1200ms
 Backspace 54
-Type "And... You're awesome :)" Sleep 1200ms
-Backspace 18
+Type "And... Dont forget you're awesome :)" Sleep 1200ms
+Backspace 37
