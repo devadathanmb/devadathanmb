@@ -2,7 +2,7 @@
 <p align="center">I'm Devadathan. Yet another geek you usually find on the internet.</p>
 <br>
 
-<img align="center" alt="Coding" src="https://i.imgur.com/8hbkJng.gif">
+<img align="center" alt="Coding" src="https://i.imgur.com/w8Swite.gif">
 <br>
 <br>
 
