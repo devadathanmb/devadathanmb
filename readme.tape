@@ -61,7 +61,7 @@ Set FontSize 40
 Set Margin 5
 Set MarginFill "#0A7ACA"
 Set BorderRadius 10
-Set Width 1500
+Set Width 1600
 Set Height 600
 
 Hide
@@ -82,6 +82,8 @@ Type "I use       btw" Sleep 1500ms
 Backspace 25
 Type "You can connect me via  or 󰙯 or 󰇮 or 󰘨 in the links given below" Sleep 1200ms
 Backspace 76
+Type "I like playing chess  too. Find my chess.com, lichess links below" Sleep 1200ms
+Backspace 69
 Type "This GIF readme was made using charmbracelet/vhs  " Sleep 1200ms
 Backspace 54
 Type "And... Dont forget you're awesome :)" Sleep 1200ms
