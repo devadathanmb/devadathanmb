@@ -26,5 +26,6 @@
 <br>
 
 <h3 align="center">Stats</h3>
-[![Devadathan's Github Stats](https://github-readme-stats.vercel.app/api?username=devadathanmb)](https://github.com/devadathanmb/github-readme-stats)
+
+![Devadathans's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devadathanmb&theme=chartreuse-dark&show_icons=true&count_private=true&include_all_commits=true)
 
