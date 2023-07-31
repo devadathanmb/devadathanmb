@@ -26,5 +26,5 @@
 <br>
 
 <h3 align="center">Stats</h3>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devadathanmb&show_icons=true&locale=en" alt="devadathanmb" /></p>
+[![Devadathan's Github Stats](https://github-readme-stats.vercel.app/api?username=devadathanmb)](https://github.com/devadathanmb/github-readme-stats)
 
