@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-🔭 I’m currently persuing my <b>BTech degree</b> <b>@ RIT Kottayam</b>
+🔭 I’m currently persuing my <b>BTech CS degree</b> <b>@ RIT Kottayam</b>
 <br>
 ♟️ I’m really passionate about <b>Linux</b>, <b>DevOps</b> and <b>Backend development</b> (the list doesn't end here ofc)
 <br>
