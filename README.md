@@ -30,4 +30,4 @@
 
 ![Devadathans's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=devadathanmb&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=devadathanmb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devadathanmb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=devadathanmb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=vehicle-service-management-system,compiler-lab)
