@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-- 🔭 I’m currently in my final year, pursuing <b>BTech CS degree</b> @ <b>[RIT Kottayam](https://en.wikipedia.org/wiki/Rajiv_Gandhi_Institute_of_Technology,_Kottayam)</b>
+- 🔭 I’m currently working as an <b>Engineering Intern</b> <b>[@fyle](https://fylehq.com)</b>
   <br>
 - ♟️ I’m really passionate about <b>FOSS</b>, <b>Linux</b>, <b>DevOps</b> and <b>Backend development</b> (the list doesn't end here ofc)
   <br>
