@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-- 🔭 I’m currently working as an <b>Engineering Intern</b> <b>[@fyle](https://fylehq.com)</b>
+- 🔭 I’m currently working as an <b>MTS - 1</b> <b>[@fyle](https://fylehq.com)</b>
   <br>
 - ♟️ I’m really passionate about <b>FOSS</b>, <b>Linux</b>, <b>DevOps</b> and <b>Backend development</b> (the list doesn't end here ofc)
   <br>
