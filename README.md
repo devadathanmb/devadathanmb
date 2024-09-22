@@ -1,7 +1,5 @@
 ## 💫 About Me:
 
-- 🔭 I’m currently working as an <b>MTS</b> <b>[@fyle](https://fylehq.com)</b>
-  <br>
 - ♟️ I’m really passionate about <b>FOSS</b>, <b>Linux</b>, <b>DevOps</b> and <b>Backend development</b> (the list doesn't end here ofc)
   <br>
 - 💬 Are you stuck in the <i>tty?</i> I can fix it for you :)
