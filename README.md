@@ -1,7 +1,7 @@
 ## Hello there! 👋
 
 
-- I’m **Devadathan**, a **software engineer** from **India**, mostly working on the **backend side of things**
+- I’m **Devadathan** (also known as _Dev_), a **software engineer** from **India**, mostly working on the **backend side of things**
 - I find **Linux**, **backend systems**, and **cloud technologies** pretty interesting
 - I enjoy **tinkering around** - **automating** random stuff, **reverse engineering APIs**, building things that make life easier, **self-hosting**, just to name a few
 - I occasionally write about random things on my website [**devadathanmb.in**](https://devadathanmb.in) - anything from **life thoughts** to **computer science**
