@@ -1,4 +1,4 @@
-## Hi, I'm Dev
+## Hi there, I'm Dev 👋
 
 I'm a software engineer. I build systems, and I care more than I probably should
 about how they're put together.
@@ -28,4 +28,4 @@ systems work to how everything else does, sometimes.
 
 <br/>
 
-![stats what else?](https://github-readme-stats.vercel.app/api/top-langs/?username=devadathanmb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=vehicle-service-management-system,compiler-lab)
+<!-- ![stats what else?](https://github-readme-stats.vercel.app/api/top-langs/?username=devadathanmb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&exclude_repo=vehicle-service-management-system,compiler-lab) -->
