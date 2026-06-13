@@ -1,22 +1,17 @@
 ## Hi there, I'm Dev 👋
 
-I'm a software engineer at [Sage](https://github.com/sage). I build systems, and I care more than I probably should
-about how they're put together.
+Software engineer from Kerala, India.
 
-Most of my time outside of that goes into tools, scripts, and configuring things until
-they work exactly the way I want — five hours well spent on a 0.0001% improvement, every time.
+I care about open source software, good tools, and understanding how things work.
 
-I believe in libre and open source software — use it, contribute when I see the need,
-and genuinely care about the distinction.
-
-Sometimes I write things down at [devadathanmb.in](https://devadathanmb.in) — from how
-systems work to how everything else does, sometimes.
+Sometimes I write things down at [devadathanmb.in](https://devadathanmb.in).
 
 ## Find me
 
-- [Discord](https://discord.com/users/771442997208416297) — usually around
-- [LinkedIn](https://linkedin.com/in/devadathanmb) — you know what it's for
-- [Email](mailto:devadathanmb@gmail.com) — works too
+* [Website](https://devadathanmb.in)
+* [LinkedIn](https://linkedin.com/in/devadathanmb)
+* [Email](mailto:devadathanmb@gmail.com)
+* [Discord](https://discord.com/users/771442997208416297)
 
 ## Some numbers
 
