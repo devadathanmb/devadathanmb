@@ -1,4 +1,4 @@
-# Hi, I'm Devadathan (or Dev, because that's easier).
+## Hi, I'm Devadathan (or _Dev_, because that's easier).
 
 I live in Kerala, India. I spend my days building software at [Sage](https://github.com/sage), mostly on backend systems, and my evenings wondering how everything else works.
 
